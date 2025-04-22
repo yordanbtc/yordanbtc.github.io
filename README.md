@@ -1,5 +1,5 @@
 <h3 align="center">
   
-  ![header](../../banner.png)
+  ![header](https.//yordanbtc.github.io/banner.png)
   
   Welcome I'm Saravana Kumar ! </h3>
