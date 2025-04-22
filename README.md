@@ -2,4 +2,5 @@
   
   ![header](header.jpeg)
   
-  Hello, I'm Yordan Reyes! </h3>
+  Hi, I am a full stack software developer! 
+</h3>
