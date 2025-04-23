@@ -11,7 +11,7 @@
 🌱 &nbsp;I have extensive experience in systems and database development..\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting conversation.\
-✉️ &nbsp;You can text me on instagram @yordanbtc, I'll try to respond as soon as I can.\
+✉️ &nbsp;You can text me on instagram [@yordanbtc](https://instagram.com/yordanbtc), I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://linkedin.com/in/yordanbtc) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
