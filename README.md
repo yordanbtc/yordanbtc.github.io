@@ -56,7 +56,9 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/yordanbtc"><img src="https://img.shields.io/badge/-yordanbtc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<a href="mailto:reyes.yordan@gmail.com"><img src="https://img.shields.io/badge/-reyes.yordan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@yordanbtc__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
