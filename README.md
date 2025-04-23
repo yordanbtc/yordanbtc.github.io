@@ -1,6 +1,5 @@
 ![Yordan Banner](https://yordanbtc.github.io/header.jpeg)
 
-<!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>-->
 <h2>Hey there! I'm Yordan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Yordan -->
@@ -14,8 +13,6 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/yordanbtc/yordanbtc/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -56,8 +53,6 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/yordanbtc"><img src="https://img.shields.io/badge/-yordanbtc-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:reyes.yordan@gmail.com"><img src="https://img.shields.io/badge/-reyes.yordan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@yordanbtc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
