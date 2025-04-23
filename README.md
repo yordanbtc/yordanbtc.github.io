@@ -61,10 +61,8 @@
 
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@yordanbtc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://facebook.com/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+<a href="https://tiktok.com/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=TickTock&logoColor=white"/></a>
+
 
 -----
 Credits: [Yordan Reyes](https://github.com/yordanbtc)
