@@ -61,7 +61,7 @@
 
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@yordanbtc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://tiktok.com/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://tiktok.com/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=tiktok&logoColor=white"/></a>
 
 </p>
 
