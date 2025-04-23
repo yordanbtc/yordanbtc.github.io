@@ -1,6 +1,6 @@
 ![Yordan Banner](https://yordanbtc.github.io/header.jpeg)
 
-<h2>Hey there! I'm Yordan</h2>
+<h2>Hey there! I'm full-stack developer</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Yordan -->
 
