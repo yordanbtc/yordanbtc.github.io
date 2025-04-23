@@ -53,6 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://www.youtube.com/@yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-EC0505?style=flat&logo=youtube&logoColor=white"/></a>
 
 <a href="https://linkedin.com/in/yordanbtc"><img src="https://img.shields.io/badge/-yordanbtc-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
