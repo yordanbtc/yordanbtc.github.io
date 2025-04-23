@@ -64,7 +64,7 @@
 <a href="https://tiktok.com/yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=tiktok&logoColor=white"/></a>
 
 
-<a href="https://wa.me/message/5TIANKNJM7HVL1"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/message/5TIANKNJM7HVL1"><img src="https://img.shields.io/badge/-@yordanbtc-19B63E?style=flat&logo=whatsapp&logoColor=white"/></a>
 
 </p>
 
