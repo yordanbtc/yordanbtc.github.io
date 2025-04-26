@@ -45,7 +45,7 @@
 <div style="display:grid;align-items:center;justify-content:center">
 <a href="https://github.com/yordanbtc">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yordanbtc&layout=compact&langs_count=8&theme=algolia"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanbtc&layout=compact"/>
 </a>
 </div>
 </p>
