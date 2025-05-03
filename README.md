@@ -67,10 +67,8 @@
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Donaciones
 
-
-Donaciones:
   <a herf="https://ko-fi.com/yordanbtc">Brindame un café</a>
 
 
