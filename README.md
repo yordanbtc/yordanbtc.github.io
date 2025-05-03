@@ -1,4 +1,4 @@
-(https://yordanbtc.github.io/header.png)
+![Yordan Banner](https://yordanbtc.github.io/header.png)
 
 <h2>Hey there! I'm full-stack developer</h2>
 
