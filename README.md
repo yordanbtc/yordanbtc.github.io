@@ -69,7 +69,7 @@
 
 ### 🤝🏻 &nbsp;Donaciones
 
-  <a herf="https://ko-fi.com/yordanbtc">Brindame un café</a>
+  [Brindame un café](https://linkedin.com/in/yordanbtc)
 
 
 -----
