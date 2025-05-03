@@ -69,10 +69,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+
 Donaciones:
   <a herf="https://ko-fi.com/yordanbtc">Brindame un café</a>
-</p>
+
 
 -----
 Credits: [Yordan Reyes](https://github.com/yordanbtc)
