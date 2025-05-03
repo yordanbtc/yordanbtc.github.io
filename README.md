@@ -67,9 +67,9 @@
 </p>
 
 
-### 🤝🏻 &nbsp;Donaciones
+### 🤝🏻 &nbsp;:money_with_wings:
 
-  [Brindame un café](https://linkedin.com/in/yordanbtc)
+  [Brindame un café](https://linkedin.com/in/yordanbtc) 	:coffee:
 
 
 -----
