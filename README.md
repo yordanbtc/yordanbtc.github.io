@@ -7,11 +7,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎓 &nbsp;I studied computer engineering and I'm still learning\
+🌱 &nbsp;I have extensive experience in systems and database development..\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting conversation.\
+✉️ &nbsp;You can text me on instagram [@yordanbtc](https://instagram.com/yordanbtc), I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://linkedin.com/in/yordanbtc) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
@@ -44,8 +44,8 @@
 <p align="center">
 <div style="display:grid;align-items:center;justify-content:center">
 <a href="https://github.com/yordanbtc">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yordanbtc&layout=compact&langs_count=8&theme=algolia"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&layout=compact"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&layout=compact"/>
 </a>
 </div>
 </p>
