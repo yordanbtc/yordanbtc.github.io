@@ -12,7 +12,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico a la lectura y actividades secundarias.\
 💬 &nbsp;No dudes en comunicarse conmigo para realizar consultoría.\
 ✉️ &nbsp;Puedes contactarme en instagram [@yordanbtc](https://instagram.com/yordanbtc) y con gusto te respondo.\
-📄 &nbsp;Porfavor echa un ojo a mi CV [Curriculum](https://linkedin.com/in/yordanbtc)!.\
+📄 &nbsp;Porfavor echa un ojo a mi CV [Curriculum](https://linkedin.com/in/yordanbtc)!.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -62,8 +62,8 @@
 
 ### 💸 &nbsp;Donaciones
 
-  [Brindame un café](https://ko-fi.com/yordanbtc) ☕
-  Bitcoin: 1AFuPmjaQbsTkPcx1A8sPhH5Q7N5FDVyQG
+  * [Brindame un café](https://ko-fi.com/yordanbtc) ☕ 
+  * Bitcoin: 1AFuPmjaQbsTkPcx1A8sPhH5Q7N5FDVyQG
 
 
 -----
