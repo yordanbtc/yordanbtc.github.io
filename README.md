@@ -12,7 +12,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico a la lectura y actividades secundarias.\
 💬 &nbsp;No dudes en comunicarse conmigo para realizar consultoría.\
 ✉️ &nbsp;Puedes contactarme en instagram [@yordanbtc](https://instagram.com/yordanbtc) y con gusto te respondo.\
-📄 &nbsp;Porfavor echa un ojo a mi CV [Resume](https://linkedin.com/in/yordanbtc)!.\
+📄 &nbsp;Porfavor echa un ojo a mi CV [Curriculum](https://linkedin.com/in/yordanbtc)!.\
 
 ### 🛠 &nbsp;Tech Stack
 
