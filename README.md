@@ -1,18 +1,18 @@
 ![Yordan Banner](https://yordanbtc.github.io/header.png)
 
-<h2>Hey there! I'm full-stack developer</h2>
+<h2>¡Hola! Soy Desarrollador Full-Stack</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Yordan -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mí
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I studied computer engineering and I'm still learning\
-🌱 &nbsp;I have extensive experience in systems and database development..\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting conversation.\
-✉️ &nbsp;You can text me on instagram [@yordanbtc](https://instagram.com/yordanbtc), I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://linkedin.com/in/yordanbtc) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.\
+🎓 &nbsp;Estudié Ingeniería de computación.\
+🌱 &nbsp;Tengo amplia experiencia en sistemas y diseño de bases de datos.\
+✍️ &nbsp;En mi tiempo libre, me dedico a la lectura y actividades secundarias.\
+💬 &nbsp;No dudes en comunicarse conmigo para realizar consultoría.\
+✉️ &nbsp;Puedes contactarme en instagram [@yordanbtc](https://instagram.com/yordanbtc) y con gusto te respondo.\
+📄 &nbsp;Porfavor echa un ojo a mi CV [Resume](https://linkedin.com/in/yordanbtc)!.\
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,7 +50,7 @@
 </div>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
 <a href="https://www.youtube.com/@yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-EC0505?style=flat&logo=youtube&logoColor=white"/></a>
