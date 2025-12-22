@@ -63,7 +63,7 @@
 ### 💸 &nbsp;Donaciones
 
   * [Brindame un café](https://ko-fi.com/yordanbtc) ☕ 
-  * Bitcoin: 1AFuPmjaQbsTkPcx1A8sPhH5Q7N5FDVyQG
+  * Bitcoin: 15WhSG38N2sygaFmUVvh4JWhBJgRKpR5FJ
 
 
 -----
