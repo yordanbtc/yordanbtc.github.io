@@ -37,8 +37,8 @@
 <p align="center">
 <div style="display:grid;align-items:center;justify-content:center">
 <a href="https://github.com/yordanbtc">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&layout=compact"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&layout=compact"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&layout=compact&cache_seconds=1800"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&layout=compact&cache_seconds=1800"/>
 </a>
 </div>
 </p>
