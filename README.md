@@ -36,7 +36,7 @@
 
 ### 🚀 &nbsp;Proyectos Destacados
 
-<table border="0">
+<table border="0" align = "center">
   <tr>
     <td width="50%">
       <a href="https://github.com/yordanbtc/hercules">
