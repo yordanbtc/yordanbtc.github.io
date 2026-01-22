@@ -1,72 +1,86 @@
-![Yordan Banner](https://yordanbtc.github.io/header.png)
+<p align="center">
+  <img src="https://yordanbtc.github.io/header.png" alt="Yordan Banner" width="100%">
+</p>
 
-<h2>¡Hola! Soy Desarrollador Full-Stack</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Yordan -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+Desarrollador+Full-Stack;Ingeniero+de+Computación;Especialista+en+Bases+de+Datos;Solucionador+de+Problemas">
+</p>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.\
-🎓 &nbsp;Estudié Ingeniería de computación.\
-🌱 &nbsp;Tengo amplia experiencia en sistemas y diseño de bases de datos.\
-✍️ &nbsp;En mi tiempo libre, me dedico a la lectura y actividades secundarias.\
-💬 &nbsp;No dudes en comunicarse conmigo para realizar consultoría.\
-✉️ &nbsp;Puedes contactarme en instagram [@yordanbtc](https://instagram.com/yordanbtc) y con gusto te respondo.\
-📄 &nbsp;Porfavor echa un ojo a mi CV [Curriculum](https://linkedin.com/in/yordanbtc)!.
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.  
+🎓 &nbsp;Ingeniero de Computación.  
+🌱 &nbsp;Amplia experiencia en sistemas y diseño de bases de datos.  
+✍️ &nbsp;En mi tiempo libre, me dedico a la lectura y proyectos personales.  
+💬 &nbsp;Disponible para consultoría técnica y desarrollo de software.  
+✉️ &nbsp;Contacto directo: Instagram [@yordanbtc](https://instagram.com/yordanbtc).  
+📄 &nbsp;Conoce mi trayectoria profesional en [LinkedIn](https://linkedin.com/in/yordanbtc).
+
+---
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<p align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 &nbsp;Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/yordanbtc/hercules">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=hercules&theme=vision-friendly-dark&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/yordanbtc/yordanbtc.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=yordanbtc.github.io&theme=vision-friendly-dark&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<div style="display:grid;align-items:center;justify-content:center">
-<a href="https://github.com/yordanbtc">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&layout=compact&cache_seconds=1800"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&layout=compact&cache_seconds=1800"/>
-</a>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yordanbtc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&layout=compact&theme=vision-friendly-dark&cache_seconds=1800&hide=css,html" />
 </p>
-
-### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
-<a href="https://www.youtube.com/@yordanbtc"><img src="https://img.shields.io/badge/-@yordanbtc-EC0505?style=flat&logo=youtube&logoColor=white"/></a>
-
-<a href="https://linkedin.com/in/yordanbtc"><img src="https://img.shields.io/badge/-yordanbtc-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@yordanbtc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-<a href="https://www.tiktok.com/@yordanbtc?_t=ZM-8vlGf3PufuX&_r=1"><img src="https://img.shields.io/badge/-@yordanbtc-1877F2?style=flat&logo=tiktok&logoColor=white"/></a>
-
-
-<a href="https://wa.me/message/5TIANKNJM7HVL1"><img src="https://img.shields.io/badge/-@yordanbtc-19B63E?style=flat&logo=whatsapp&logoColor=white"/></a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yordanbtc&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
+---
 
-### 💸 &nbsp;Donaciones
+### 🤝🏻 &nbsp;Conéctate conmigo
 
-  * [Brindame un café](https://ko-fi.com/yordanbtc) ☕ 
-  * Bitcoin: 15WhSG38N2sygaFmUVvh4JWhBJgRKpR5FJ
+<p align="center">
+<a href="https://www.youtube.com/@yordanbtc"><img src="https://img.shields.io/badge/-YouTube-EC0505?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yordanbtc"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/yordanbtc"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://wa.me/message/5TIANKNJM7HVL1"><img src="https://img.shields.io/badge/-WhatsApp-19B63E?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
+### 💸 &nbsp;Apoya mi trabajo
 
------
-Credits: [Yordan Reyes](https://github.com/yordanbtc)
+* [Regalame un café](https://ko-fi.com/yordanbtc) ☕ 
+* **Bitcoin:** `15WhSG38N2sygaFmUVvh4JWhBJgRKpR5FJ`
 
-Last Edited on: 21/04/2025
+<p align="right">
+  <i>Última actualización: 2026</i><br>
+  Hecho con ❤️ por <a href="https://github.com/yordanbtc">Yordan Reyes</a>
+</p>
