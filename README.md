@@ -35,21 +35,22 @@
 ---
 
 ### 🚀 &nbsp;Proyectos Destacados
-
-<table border="0" align = "center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/yordanbtc/hercules">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=hercules&theme=vision-friendly-dark&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/yordanbtc/yordanbtc.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=yordanbtc.github.io&theme=vision-friendly-dark&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/yordanbtc/hercules">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=hercules&theme=vision-friendly-dark&show_owner=true" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/yordanbtc/yordanbtc.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=yordanbtc.github.io&theme=vision-friendly-dark&show_owner=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
