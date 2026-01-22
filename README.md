@@ -55,18 +55,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yordanbtc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&theme=vision-friendly-dark&cache_seconds=1800&hide=css,html&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yordanbtc&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&theme=vision-friendly-dark&cache_seconds=1800&hide=css,html&langs_count=8&card_width=495" />
 </p>
 
 ---
