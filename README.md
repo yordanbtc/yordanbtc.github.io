@@ -37,11 +37,11 @@
 ### 🚀 &nbsp;Proyectos Destacados
 <p align="center">
   <a href="https://github.com/yordanbtc/hercules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=hercules&theme=vision-friendly-dark&show_owner=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yordanbtc&repo=hercules&theme=vision-friendly-dark&show_owner=true&cache_seconds=1800" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/yordanbtc/yordanbtc.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yordanbtc&repo=yordanbtc.github.io&theme=vision-friendly-dark&show_owner=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yordanbtc&repo=yordanbtc.github.io&theme=vision-friendly-dark&show_owner=true&cache_seconds=1800" />
   </a>
 </p>
 
