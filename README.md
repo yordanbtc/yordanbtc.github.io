@@ -50,8 +50,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yordanbtc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanbtc&layout=compact&theme=vision-friendly-dark&cache_seconds=1800&hide=css,html" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=yordanbtc&layout=compact&theme=vision-friendly-dark&cache_seconds=1800&hide=css,html" />
 </p>
 
 <p align="center">
