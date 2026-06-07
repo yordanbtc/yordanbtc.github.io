@@ -7,14 +7,28 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí
+¡Hola, soy Yordan! 👋
+Full-stack Developer | Ingeniero de Computación
+Especializado en crear soluciones escalables utilizando NestJS y Angular, con un fuerte enfoque en el diseño de arquitecturas de bases de datos robustas (PostgreSQL/SQL Server). Apasionado por la integración de Agentes de IA en aplicaciones de negocio para optimizar procesos.
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.  
-🎓 &nbsp;Ingeniero de Computación.  
-🌱 &nbsp;Amplia experiencia en sistemas y diseño de bases de datos.  
-✍️ &nbsp;En mi tiempo libre, me dedico a la lectura y proyectos personales.  
-💬 &nbsp;Disponible para consultoría técnica y desarrollo de software.  
-✉️ &nbsp;Contacto directo: Instagram [@yordanbtc](https://instagram.com/yordanbtc).  
-📄 &nbsp;Conoce mi trayectoria profesional en [LinkedIn](https://linkedin.com/in/yordanbtc).
+🛠️ Tech Stack
+Backend: NestJS, PHP, SQL (PostgreSQL, SQL Server)
+
+Frontend: Angular, TypeScript
+
+IA & Cloud: Integración de LLMs (LangChain), Arquitectura RAG, Cloud fundamentals
+
+Habilidades: Diseño de Sistemas, Ciberseguridad, Automatización
+
+🚀 ¿Qué busco?
+Actualmente disponible para desafíos profesionales en desarrollo de software remoto (Backend, Fullstack o Integración de IA). Enfocado en aportar valor mediante código limpio, arquitectura eficiente y escalabilidad.
+
+💼 Conectemos
+LinkedIn: www.linkedin.com/in/yordanbtc
+
+Portafolio: --
+
+Contacto: reyes.yordan@gmail.com
 
 ---
 
