@@ -30,7 +30,7 @@ Portafolio:
 
 * **[Web Gimnasio](https://sitio-gimnasio-dev.vercel.app)**
     * *Descripción:* Sistema de gestión para gimnasios enfocado en escalabilidad y control de usuarios.
-      *🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
+    * *🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
 
 
 Contacto: reyes.yordan@gmail.com
@@ -91,7 +91,7 @@ Contacto: reyes.yordan@gmail.com
 ### 💸 &nbsp;Apoya mi trabajo
 
 * [Regalame un café](https://ko-fi.com/yordanbtc) ☕ 
-* **Bitcoin:** `15WhSG38N2sygaFmUVvh4JWhBJgRKpR5FJ`
+* **Bitcoin:** `bc1qe2t2k6d782r7zt2wv7e9npwrf3fw7993hu066p`
 
 <p align="right">
   <i>Última actualización: 2026</i><br>
