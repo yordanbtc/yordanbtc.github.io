@@ -28,7 +28,7 @@ LinkedIn: www.linkedin.com/in/yordanbtc
 
 Portafolio: 
 
-<a href = "sitio-gimnasio-dev.vercel.app">Web Gimnasio</a>
+### <a href = "sitio-gimnasio-dev.vercel.app">Web Gimnasio</a>
 
 Contacto: reyes.yordan@gmail.com
 
