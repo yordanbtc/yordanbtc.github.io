@@ -26,7 +26,9 @@ Actualmente disponible para desafíos profesionales en desarrollo de software re
 💼 Conectemos
 LinkedIn: www.linkedin.com/in/yordanbtc
 
-Portafolio: --
+Portafolio: 
+
+<a href = "sitio-gimnasio-dev.vercel.app">Web Gimnasio</a>
 
 Contacto: reyes.yordan@gmail.com
 
