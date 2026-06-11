@@ -55,26 +55,7 @@ Contacto: reyes.yordan@gmail.com
 
 ### 🚀 &nbsp;Proyectos Destacados
 <p align="center">
-  <a href="https://github.com/yordanbtc/hercules">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yordanbtc&repo=hercules&theme=vision-friendly-dark&show_owner=true&cache_seconds=1800" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yordanbtc/yordanbtc.github.io">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=yordanbtc&repo=yordanbtc.github.io&theme=vision-friendly-dark&show_owner=true&cache_seconds=1800" />
-  </a>
-</p>
-
----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yordanbtc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=yordanbtc&layout=compact&theme=vision-friendly-dark&cache_seconds=1800&hide=css,html" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yordanbtc&theme=vision-friendly-dark" alt="GitHub Streak" />
+  
 </p>
 
 ---
