@@ -46,13 +46,10 @@ Contacto: reyes.yordan@gmail.com
 ---
 
 ### 🚀 &nbsp;Proyectos Destacados
-<p align="center">
-Portafolio: 
 
 * **[Web Gimnasio](https://sitio-gimnasio-dev.vercel.app)**
     * *Descripción:* Sistema de gestión para gimnasios enfocado en escalabilidad y control de usuarios.
     * 🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
-</p>
 
 ---
 
