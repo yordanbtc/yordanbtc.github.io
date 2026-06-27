@@ -52,7 +52,7 @@ Contacto: reyes.yordan@gmail.com
     * 🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
 * **[Web sismove](https://sismove.vercel.app)**
     * *Descripción:* Sistema de apoyo a victimas del terremoto en venezuela.
-    * 🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
+    * 🌐 [Demo en vivo](https://sismove.vercel.app)
 
 ---
 
