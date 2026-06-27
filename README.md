@@ -50,6 +50,9 @@ Contacto: reyes.yordan@gmail.com
 * **[Web Gimnasio](https://sitio-gimnasio-dev.vercel.app)**
     * *Descripción:* Sistema de gestión para gimnasios enfocado en escalabilidad y control de usuarios.
     * 🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
+* **[Web sismove](https://sismove.vercel.app)**
+    * *Descripción:* Sistema de apoyo a victimas del terremoto en venezuela.
+    * 🌐 [Demo en vivo](https://sitio-gimnasio-dev.vercel.app)
 
 ---
 
@@ -62,7 +65,7 @@ Contacto: reyes.yordan@gmail.com
 <a href="https://wa.me/message/5TIANKNJM7HVL1"><img src="https://img.shields.io/badge/-WhatsApp-19B63E?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-### 💸 &nbsp;Apoya mi trabajo
+### 💸 &nbsp;Donaciones
 
 * [Regalame un café](https://ko-fi.com/yordanbtc) ☕ 
 * **Bitcoin:** `bc1qe2t2k6d782r7zt2wv7e9npwrf3fw7993hu066p`
