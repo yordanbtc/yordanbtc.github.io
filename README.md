@@ -1,25 +1,8 @@
-<!-- SEO Básico -->
-<title>Yordan Reyes | Fullstack Software Developer & IA Specialist</title>
-<meta name="description" content="Portafolio profesional de Yordan Reyes (yordanbtc). Ingeniero de Computación y Desarrollador Fullstack especializado en NestJS, Angular, bases de datos y Agentes de IA.">
-<meta name="keywords" content="yordanbtc, Yordan Reyes, Fullstack Developer, Ingeniero de Computación, NestJS, Angular, Agentes de IA, Palo Negro, Aragua, Venezuela">
-<meta name="author" content="Yordan Reyes (yordanbtc)">
-<meta name="robots" content="index, follow">
-
-<!-- Open Graph / Facebook (Para compartir en redes sociales) -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://github.io">
-<meta property="og:title" content="Yordan Reyes | Fullstack Software Developer">
-<meta property="og:description" content="Explora el portafolio de ingeniería de software y desarrollo de sistemas de yordanbtc. Soluciones escalables e integración de IA.">
-<meta property="og:image" content="https://github.ioheader.png">
-
-<!-- Twitter Cards -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://github.io">
-<meta name="twitter:title" content="Yordan Reyes | Fullstack Software Developer">
-<meta name="twitter:description" content="Explora el portafolio de ingeniería de software y desarrollo de sistemas de yordanbtc. Soluciones escalables e integración de IA.">
-<meta name="twitter:image" content="https://github.ioheader.png">
-
-
+<!-- 
+SEO Optimization Metadata for Search Engines
+Keywords: yordanbtc, Yordan Reyes, Fullstack Developer, Ingeniero de Computación, NestJS, Angular, Agentes de IA, Palo Negro, Aragua, Venezuela, Web Gimnasio, Web Sismove
+Description: Portafolio profesional de Yordan Reyes (yordanbtc). Ingeniero de Computación y Desarrollador Fullstack especializado en NestJS, Angular, bases de datos y Agentes de IA.
+-->
 <p align="center">
   <img src="https://yordanbtc.github.io/header.png" alt="Yordan Banner" width="100%">
 </p>
