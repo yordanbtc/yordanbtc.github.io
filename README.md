@@ -17,23 +17,26 @@ Especializado en crear soluciones backend y de nivel empresarial altamente escal
 
 ### 🛠 &nbsp;Tech Stack
 
+### 🛠 &nbsp;Tech Stack
+
 <p align="left">
   <!-- Backend & Core -->
   <img src="https://shields.io" alt="NestJS" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="PHP" />
   <!-- Databases -->
   <img src="https://shields.io" alt="PostgreSQL" />
   <img src="https://shields.io" alt="SQL Server" />
   <!-- Frontend & UI -->
   <img src="https://shields.io" alt="Angular" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Bootstrap" />
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="VS Code" />
 </p>
+
 
 * **Backend & Arquitectura:** NestJS, PHP, Arquitecturas RAG, Integración de LLMs (LangChain).
 * **Bases de Datos:** PostgreSQL, Microsoft SQL Server (Diseño robusto y optimización de queries).
